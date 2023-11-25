@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafia Habib</h1>
-<h3 align="center">I want to become best programmer</h3>
+<h3 align="center">I am going to be the a game developer</h3>
 
 - 🌱 I’m currently learning **C++**
 
